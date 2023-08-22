@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\bin\Debug\net6.0\StatergicDesignDemo.exe
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\bin\Debug\net6.0\StatergicDesignDemo.deps.json
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\bin\Debug\net6.0\StatergicDesignDemo.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\bin\Debug\net6.0\StatergicDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\bin\Debug\net6.0\StatergicDesignDemo.pdb
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\obj\Debug\net6.0\StatergicDesignDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\obj\Debug\net6.0\StatergicDesignDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\obj\Debug\net6.0\StatergicDesignDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\obj\Debug\net6.0\StatergicDesignDemo.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\obj\Debug\net6.0\StatergicDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\obj\Debug\net6.0\StatergicDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\obj\Debug\net6.0\refint\StatergicDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\obj\Debug\net6.0\StatergicDesignDemo.pdb
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\obj\Debug\net6.0\StatergicDesignDemo.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment17\StatergicDesignDemo\StatergicDesignDemo\obj\Debug\net6.0\ref\StatergicDesignDemo.dll

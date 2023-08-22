@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\bin\Debug\net6.0\TemplateDesignDemo.exe
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\bin\Debug\net6.0\TemplateDesignDemo.deps.json
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\bin\Debug\net6.0\TemplateDesignDemo.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\bin\Debug\net6.0\TemplateDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\bin\Debug\net6.0\TemplateDesignDemo.pdb
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\obj\Debug\net6.0\TemplateDesignDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\obj\Debug\net6.0\TemplateDesignDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\obj\Debug\net6.0\TemplateDesignDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\obj\Debug\net6.0\TemplateDesignDemo.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\obj\Debug\net6.0\TemplateDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\obj\Debug\net6.0\TemplateDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\obj\Debug\net6.0\refint\TemplateDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\obj\Debug\net6.0\TemplateDesignDemo.pdb
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\obj\Debug\net6.0\TemplateDesignDemo.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment20\TemplateDesignDemo\obj\Debug\net6.0\ref\TemplateDesignDemo.dll
